@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D899CA38-C5F0-408C-BEBC-E5CFEFC0EA04}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Play.Trading.Service", "src\Play.Trading.Service\Play.Trading.Service.csproj", "{989C2EE7-7575-4C2B-BEDD-6EEAF5B18F41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989C2EE7-7575-4C2B-BEDD-6EEAF5B18F41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989C2EE7-7575-4C2B-BEDD-6EEAF5B18F41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989C2EE7-7575-4C2B-BEDD-6EEAF5B18F41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989C2EE7-7575-4C2B-BEDD-6EEAF5B18F41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{989C2EE7-7575-4C2B-BEDD-6EEAF5B18F41} = {D899CA38-C5F0-408C-BEBC-E5CFEFC0EA04}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D58B7563-457D-40B7-B581-FDC5943F4608}
+	EndGlobalSection
+EndGlobal

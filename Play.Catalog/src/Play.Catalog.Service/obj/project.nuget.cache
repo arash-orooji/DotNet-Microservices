@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "gPn7voczZkS1GaHffruY23dV05yQvUWS+OAtuoaO8RV0K9/0OOv5G3y7hZIdZCTTgJuZQOTfrfo2YGdEX6FHrw==",
+  "success": false,
+  "projectFilePath": "E:\\Source_Code_Final_NetMicroservices\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Loovi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Loovi\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Loovi\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Loovi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Loovi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Loovi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1102",
+      "level": "Error",
+      "message": "Unable to find package Play.Common with version (>= 1.0.5)\r\n  - Found 1 version(s) in nuget.org [ Nearest version: 1.0.2 ]\r\n  - Found 0 version(s) in Microsoft Visual Studio Offline Packages\r\n  - Found 0 version(s) in C:\\Program Files\\dotnet\\library-packs",
+      "libraryId": "Play.Common",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}
